@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: backend.smallbusiness.SmallBusinessApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.07 s - in backend.smallbusiness.SmallBusinessApplicationTests
